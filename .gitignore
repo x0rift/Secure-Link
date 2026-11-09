@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+instance/*.db
+uploads/*
+!uploads/.gitkeep
+
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+npm-debug.log*
